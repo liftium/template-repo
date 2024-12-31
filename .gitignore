@@ -48,10 +48,6 @@ publish/
 *.pubxml
 *.azurePubxml
 
-# Docker
-.dockerignore
-Dockerfile
-
 # Other tools
 .idea/
 *.vscode/
